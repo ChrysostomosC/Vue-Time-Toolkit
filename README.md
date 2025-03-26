@@ -1,6 +1,7 @@
 # second-vue
 
-Vue.js Live Clock ⏰, Calculator & Counters. A simple yet interactive Vue.js application featuring: A Live Digital Clock that updates in real-time 🕒, A Basic Calculator for quick arithmetic operations ➕➖✖️➗, Dynamic Counters to increment and track values 🔢
+Vue.js Live Clock ⏰, Calculator & Counters. A simple yet interactive Vue.js application featuring: A Live Digital Clock that updates in real-time 🕒, A Basic Calculator for quick arithmetic operations ➕➖✖️➗, Dynamic Counters to increment and track values 🔢, Dice Roller – Roll a virtual dice 🎲 and get instant feedback (Low, Medium, or High), FAQ Section – Get answers to common questions ℹ️
+
 
 ## Project setup
 ```
