@@ -8,7 +8,8 @@ A simple yet interactive Vue.js application featuring: <br />
 ✅ Dice Roller – Roll a virtual dice 🎲 and get instant feedback (Low, Medium, or High)<br /> 
 ✅ FAQ Section – Get answers to common questions ℹ️
 
-## https://second-vuecc.netlify.app/#/clock
+## 🔗 Live Demo
+https://second-vuecc.netlify.app/#/clock
 
 ## Project setup
 ```
