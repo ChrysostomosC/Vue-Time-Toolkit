@@ -1,4 +1,4 @@
-# VueTime Toolkit
+# Vue-Time-Toolkit
 
 Vue.js Live Clock ⏰, Calculator & Counters. <br />
 A simple yet interactive Vue.js application featuring: <br />
