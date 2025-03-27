@@ -1,7 +1,7 @@
 # Vue-Time-Toolkit
 
-Vue.js Live Clock ⏰, Calculator & Counters. <br />
-A simple yet interactive Vue.js application featuring: <br />
+## Vue.js Live Clock ⏰, Calculator & Counters. <br />
+<li>A simple yet interactive Vue.js application featuring:</li> <br />
 A Live Digital Clock that updates in real-time 🕒<br /> 
 A Basic Calculator for quick arithmetic operations ➕➖✖️➗<br /> 
 Dynamic Counters to increment and track values 🔢<br /> 
